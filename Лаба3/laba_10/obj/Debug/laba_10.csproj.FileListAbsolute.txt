@@ -1,0 +1,62 @@
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\bin\Debug\laba_10.exe.config
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\bin\Debug\laba_10.exe
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\bin\Debug\laba_10.pdb
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.SuggestedBindingRedirects.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.Form1.resources
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.exe
+C:\Users\User\Desktop\ирспо10\laba_10\laba_10\obj\Debug\laba_10.pdb
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.exe.config
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.exe
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\bin\Debug\laba_10.pdb
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.AssemblyReference.cache
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.Form1.resources
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.exe
+Z:\ИСРПО\2 семестр\Лаба3\laba_10\obj\Debug\laba_10.pdb
+C:\Users\429194-39\Desktop\Лаба3\laba_10\bin\Debug\laba_10.exe.config
+C:\Users\429194-39\Desktop\Лаба3\laba_10\bin\Debug\laba_10.exe
+C:\Users\429194-39\Desktop\Лаба3\laba_10\bin\Debug\laba_10.pdb
+C:\Users\429194-39\Desktop\Лаба3\laba_10\obj\Debug\laba_10.csprojAssemblyReference.cache
+C:\Users\429194-39\Desktop\Лаба3\laba_10\obj\Debug\laba_10.Form1.resources
+C:\Users\429194-39\Desktop\Лаба3\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+C:\Users\429194-39\Desktop\Лаба3\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+C:\Users\429194-39\Desktop\Лаба3\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+C:\Users\429194-39\Desktop\Лаба3\laba_10\obj\Debug\laba_10.exe
+C:\Users\429194-39\Desktop\Лаба3\laba_10\obj\Debug\laba_10.pdb
+H:\Лаба3\laba_10\bin\Debug\laba_10.exe.config
+H:\Лаба3\laba_10\bin\Debug\laba_10.exe
+H:\Лаба3\laba_10\bin\Debug\laba_10.pdb
+H:\Лаба3\laba_10\obj\Debug\laba_10.csprojAssemblyReference.cache
+H:\Лаба3\laba_10\obj\Debug\laba_10.Form1.resources
+H:\Лаба3\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+H:\Лаба3\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+H:\Лаба3\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+H:\Лаба3\laba_10\obj\Debug\laba_10.exe
+H:\Лаба3\laba_10\obj\Debug\laba_10.pdb
+D:\Лаба3\laba_10\bin\Debug\laba_10.exe.config
+D:\Лаба3\laba_10\bin\Debug\laba_10.exe
+D:\Лаба3\laba_10\bin\Debug\laba_10.pdb
+D:\Лаба3\laba_10\obj\Debug\laba_10.csproj.AssemblyReference.cache
+D:\Лаба3\laba_10\obj\Debug\laba_10.csproj.SuggestedBindingRedirects.cache
+D:\Лаба3\laba_10\obj\Debug\laba_10.Form1.resources
+D:\Лаба3\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+D:\Лаба3\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+D:\Лаба3\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+D:\Лаба3\laba_10\obj\Debug\laba_10.exe
+D:\Лаба3\laba_10\obj\Debug\laba_10.pdb
+E:\Лаба3\laba_10\bin\Debug\laba_10.exe.config
+E:\Лаба3\laba_10\bin\Debug\laba_10.exe
+E:\Лаба3\laba_10\bin\Debug\laba_10.pdb
+E:\Лаба3\laba_10\obj\Debug\laba_10.csprojAssemblyReference.cache
+E:\Лаба3\laba_10\obj\Debug\laba_10.Form1.resources
+E:\Лаба3\laba_10\obj\Debug\laba_10.Properties.Resources.resources
+E:\Лаба3\laba_10\obj\Debug\laba_10.csproj.GenerateResource.cache
+E:\Лаба3\laba_10\obj\Debug\laba_10.csproj.CoreCompileInputs.cache
+E:\Лаба3\laba_10\obj\Debug\laba_10.exe
+E:\Лаба3\laba_10\obj\Debug\laba_10.pdb
